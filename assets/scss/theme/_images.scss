@@ -1,0 +1,25 @@
+/* ============= Images ============= */
+
+.hero-single {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background-color: $theme-text-color-primary;
+	overflow: hidden;
+}
+
+.bg-image-1 {
+	position: absolute;
+	left: 50;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.image-logo {
+	height: 70px;
+	width: auto;
+}
