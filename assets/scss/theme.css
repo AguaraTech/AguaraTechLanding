@@ -12172,6 +12172,21 @@ a.theme-link:hover {
   -moz-opacity: 1;
   opacity: 1;
 }
+.navbar-nav .nav-social-list {
+  color: #fff;
+}
+.navbar-nav .nav-social-list a {
+  color: #fff;
+  font-size: 2rem;
+  -webkit-opacity: 0.75;
+  -moz-opacity: 0.75;
+  opacity: 0.75;
+}
+.navbar-nav .nav-social-list a:hover {
+  -webkit-opacity: 1;
+  -moz-opacity: 1;
+  opacity: 1;
+}
 
 .navbar-toggler {
   border: 1px solid #fff;

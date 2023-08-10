@@ -46,7 +46,17 @@
 		}
 
 	}
-	
+	.nav-social-list {
+		color: #fff;
+		a {
+			color: #fff;
+			font-size: 2rem;
+			@include opacity(0.75);
+			&:hover {
+				@include opacity(1);
+			}
+		}
+	}
 	
 }
 
@@ -61,8 +71,6 @@
 	    width: 27px;
 	}
 }
-
-
 
 /* Hero Block */
 .hero-block {
