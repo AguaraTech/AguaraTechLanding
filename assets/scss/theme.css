@@ -12138,6 +12138,9 @@ a.theme-link:hover {
 }
 .header .navbar {
   padding: 0;
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 1250px;
 }
 .header .logo-icon {
   height: 30px;

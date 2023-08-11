@@ -6,7 +6,7 @@ var speakers = [
     "talk": {
       "title": "Zona de promesas (asinc/await)",
       "image": "talk-1.png",
-      "summary": "Una mirada a la programación asincrónica. <br>Utilizando promesas con Javascript.",
+      "summary": "Una mirada a la programación asincrónica.<br>Al no detenerse en espera de resultados, nos permite ejecutar tareas independientes en forma simultanea, optimizando el tiempo y mejorando la capacidad de respuesta.<br>Vermos código con Callbacks, Promesas y funciones asinc/await con Javascript.",
       "description": ""
     }
   },
@@ -29,6 +29,28 @@ var speakers = [
       "title": "Liberarse de las Big Tech",
       "image": "talk-1.png",
       "summary": "Veremos alternativas al ecosistema de Google. Veremos redes sociales libres y autogestionadas gracias al Fediverso, así como también de las posibilidades de tener nubes privadas o autogestivas.",
+      "description": ""
+    }
+  },
+  {
+    "name": "Gladys Beatriz Martinez",
+    "photo": "gladys.jpg",
+    "bio": "Observatorio Argentino del Ciberespacio",
+    "talk": {
+      "title": "La desinformación como arma de combate",
+      "image": "talk-1.png",
+      "summary": "En un mundo hiperconectado, la abundancia de información conduce a la desinformación. Pero el poder no está en manos de quienes la poseen sino en quienes la difunden, que se convierten en objetivos estratégicos para influir en las decisiones mediante propaganda, desinformación y manipulación.<br>Surge así una incógnita: ¿es el ámbito cognitivo un nuevo escenario de combate?",
+      "description": ""
+    }
+  },
+  {
+    "name": "Rubén Darío Aybar",
+    "photo": "no-photo.jpg",
+    "bio": "Profesor Universitario - Ciberseguridad TI<br>Consultor de seguridad de TI",
+    "talk": {
+      "title": "Ciberataques masivos del tipo Denegación Distribuida de Servicios",
+      "image": "talk-1.png",
+      "summary": "La tecnología avanza vertiginosamente, y junto a ella también las amenazas. En este contexto es imperiosa la necesidad de establecer mecanismos que nos ayuden a evitar que cualquier evento adverso, real o potencial, comprometa la seguridad de nuestros sistemas de información.",
       "description": ""
     }
   }
