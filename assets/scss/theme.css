@@ -12354,6 +12354,10 @@ a.theme-link:hover {
   background: #e8f1f7;
   border-top: none;
 }
+.speakers-section .card-bio {
+  font-size: 0.8rem;
+}
+
 .modal-speaker .profile-image {
   width: 120px;
 }
