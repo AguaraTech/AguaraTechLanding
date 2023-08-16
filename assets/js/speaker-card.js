@@ -6,7 +6,7 @@ var speakers = [
     "talk": {
       "title": "Zona de promesas (asinc/await)",
       "image": "talk-1.png",
-      "summary": "Una mirada a la programación asincrónica.<br>Al no detenerse en espera de resultados, nos permite ejecutar tareas independientes en forma simultanea, optimizando el tiempo y mejorando la capacidad de respuesta.<br>Vermos código con Callbacks, Promesas y funciones asinc/await con Javascript.",
+      "summary": "Una mirada a la programación asincrónica.<br>Al no detenerse en espera de resultados, nos permite ejecutar tareas independientes en forma simultanea, optimizando el tiempo y mejorando la capacidad de respuesta.<br>Veremos código con Callbacks, Promesas y funciones asinc/await en Javascript.",
       "description": ""
     }
   },
@@ -79,7 +79,7 @@ speakers.forEach((speaker) => {
   data += '\t\t\t</div><!--//card-text-->\n';
   data += '\t\t</div><!--//card-body-->\n';
   data += '\t\t<div class="card-footer">\n';
-  data += '\t\t\t<a href="#modal-speaker-1" data-bs-toggle="modal" data-bs-target="#modal-speaker-1">Ver más &rarr;</a>\n';
+  //data += '\t\t\t<a href="#modal-speaker-1" data-bs-toggle="modal" data-bs-target="#modal-speaker-1">Ver más &rarr;</a>\n';
   data += '\t\t</div>\n';
   data += '\t</div><!--//card-->';
   data += '</div><!--//col-->';
