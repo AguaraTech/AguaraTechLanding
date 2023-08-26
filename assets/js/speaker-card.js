@@ -45,7 +45,7 @@ var speakers = [
   },
   {
     "name": "Rubén Darío Aybar",
-    "photo": "no-photo.jpg",
+    "photo": "raybar.jpg",
     "bio": "Profesor Universitario - Ciberseguridad TI<br>Consultor de seguridad de TI",
     "talk": {
       "title": "Ciberataques masivos del tipo Denegación Distribuida de Servicios",
