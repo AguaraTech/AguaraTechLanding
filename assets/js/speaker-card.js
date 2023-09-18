@@ -28,7 +28,7 @@ var speakers = [
     "talk": {
       "title": "Liberarse de las Big Tech",
       "image": "talk-1.png",
-      "summary": "Veremos alternativas al ecosistema de Google. Veremos redes sociales libres y autogestionadas gracias al Fediverso, así como también de las posibilidades de tener nubes privadas o autogestivas.",
+      "summary": "Veremos alternativas al ecosistema de Google y Meta. Veremos redes sociales libres y autogestionadas gracias al Fediverso, así como también de las posibilidades de tener nubes privadas o autogestivas. Explicaremos los motivos que dan origen a esta problemática, utilizando un abordaje social, sumando también experiencias personales.",
       "description": ""
     }
   },
