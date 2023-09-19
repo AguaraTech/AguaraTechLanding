@@ -56,7 +56,7 @@ var speakers = [
   },
   {
     "name": "Federico Bustos Reye",
-    "photo": "Fico.jpg",
+    "photo": "fico.jpg",
     "bio": "Nadologo, Escritor, Barista",
     "talk": {
       "title": "La IA poniendo en jaque la percepción de la realidad",
