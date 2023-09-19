@@ -4,9 +4,9 @@ var speakers = [
     "photo": "rodolfo.jpg",
     "bio": "Software Engineer en EBANX<br>Software Developer en GOIAR<br>Full Stack Developer en ORIGINO",
     "talk": {
-      "title": "Zona de promesas (asinc/await)",
+      "title": "Zona de promesas (async/await)",
       "image": "talk-1.png",
-      "summary": "Una mirada a la programación asincrónica.<br>Al no detenerse en espera de resultados, nos permite ejecutar tareas independientes en forma simultanea, optimizando el tiempo y mejorando la capacidad de respuesta.<br>Veremos código con Callbacks, Promesas y funciones asinc/await en Javascript.",
+      "summary": "Una mirada a la programación asincrónica.<br>Al no detenerse en espera de resultados, nos permite ejecutar tareas independientes en forma simultanea, optimizando el tiempo y mejorando la capacidad de respuesta.<br>Veremos código con Callbacks, Promesas y funciones async/await en Javascript.",
       "description": ""
     }
   },
