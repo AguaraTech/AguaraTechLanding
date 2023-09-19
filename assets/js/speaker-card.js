@@ -53,6 +53,17 @@ var speakers = [
       "summary": "La tecnología avanza vertiginosamente, y junto a ella también las amenazas. En este contexto es imperiosa la necesidad de establecer mecanismos que nos ayuden a evitar que cualquier evento adverso, real o potencial, comprometa la seguridad de nuestros sistemas de información.",
       "description": ""
     }
+  },
+  {
+    "name": "Federico Bustos Reye",
+    "photo": "Fico.jpg",
+    "bio": "Nadologo, Escritor, Barista",
+    "talk": {
+      "title": "La IA poniendo en jaque la percepción de la realidad",
+      "image": "talk-1.png",
+      "summary": "Cómo la Inteligencia Artificial está cambiando nuestra percepción de la realidad y fomentando la proliferación de fake news. Descubre cómo la tecnología de IA, desde deepfakes hasta bots, está influyendo en el paisaje informativo y determinando qué es verdad o no para nosotros.",
+      "description": ""
+    }
   }
 ]
 
