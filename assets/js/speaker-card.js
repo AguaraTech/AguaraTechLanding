@@ -55,7 +55,7 @@ var speakers = [
     }
   },
   {
-    "name": "Federico Bustos Reye",
+    "name": "Federico Bustos Reyes",
     "photo": "fico.jpg",
     "bio": "Nadologo, Escritor, Barista",
     "talk": {
@@ -64,11 +64,23 @@ var speakers = [
       "summary": "Cómo la Inteligencia Artificial está cambiando nuestra percepción de la realidad y fomentando la proliferación de fake news. Descubre cómo la tecnología de IA, desde deepfakes hasta bots, está influyendo en el paisaje informativo y determinando qué es verdad o no para nosotros.",
       "description": ""
     }
+  },
+  {
+    "name": "Augusto Romero",
+    "photo": "augusto.jpg",
+    "bio": "FullStack Developer, Freelancer IA",
+    "talk": {
+      "title": "Usando ChatGPT con TUS PROPIOS Datos",
+      "image": "talk-1.png",
+      "summary": "Descubre cómo personalizar grandes modelos de lenguaje como ChatGPT usando tus datos a través de LangChain, evidenciando mediante ejemplos prácticos el transformador potencial adaptativo de la inteligencia artificial.",
+      "description": ""
+    }
   }
 ]
 
 data = '';
 var speaker_card = document.getElementById("speaker-card");
+speakers.sort(() => Math.random() - 0.5);
 speakers.forEach((speaker) => {
   data += '<div class="col-6 col-lg-4 mb-4">\n';
   data += '\t<div class="card rounded-2">\n';
