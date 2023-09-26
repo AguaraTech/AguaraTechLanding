@@ -75,6 +75,39 @@ var speakers = [
       "summary": "Descubre cómo personalizar grandes modelos de lenguaje como ChatGPT usando tus datos a través de LangChain, evidenciando mediante ejemplos prácticos el transformador potencial adaptativo de la inteligencia artificial.",
       "description": ""
     }
+  },
+  {
+    "name": "Matias Miro",
+    "photo": "matiasmiro.jpg",
+    "bio": "Lic en informática, desarrollador de videojuegos, profesor de desarrollo web en Coderhouse, fundador y presidente de EW GAMING, escritor del libro esports “bienvenidos a nuestro mundo”",
+    "talk": {
+      "title": "El futuro de la industria de los videojuegos ",
+      "image": "talk-1.png",
+      "summary": "Aprenderemos a comprender este ecosistema, a encontrar los fundamentos para incursionar laboralmente y también descubrir ramas profesionales para capacitarse, además conoceremos un enfoque internacional de Mercado y fundamentalmente el futuro de una de las industrias de mayor crecimiento de los últimos tiempos.",
+      "description": ""
+    }
+  },
+  {
+    "name": "Soldan",
+    "photo": "soldan.png",
+    "bio": "Cyberciruja, hacktivista, profesor de educación primaria y editor en Revista Replay",
+    "talk": {
+      "title": "Infraestructura Cyberciruja para la comunidad organizada",
+      "image": "talk-1.png",
+      "summary": "Contra la obsolescencia programada, la oligarquía del datos, los fascistas del byte, comunidades organizadas del software libre levantan sus propios servidores autogestionados; y en Sudamérica lo hacemos con los fierros que tengamos a mano.",
+      "description": ""
+    }
+  },
+  {
+    "name": "Klaibson Natal Ribeiro Borges",
+    "photo": "klaibson.jpg",
+    "bio": "Miembro de la comunidad Brasileña de Software Libre desde 2007. Profesor de Administración en la Escuela Técnica de São Paulo, Etec y Colaborador del Proyecto OnlyOffice. Organizador y ponente en diversos eventos de Software Libre (Flisol, Solisc, FISL, Latinoware, FTSL, etc.)",
+    "talk": {
+      "title": "OnlyOffice - Su Nueva Suíte de Oficina",
+      "image": "talk-1.png",
+      "summary": "Conocerás la suite ofimática OnlyOffice, que es gratuita y de código abierto, que funciona en la nube, en el escritorio, en el móvil y en el servidor. Muy conocido en Europa, sin embargo, está dando sus primeros pasos en América Latina. También se demostrarán las formas de contribuir al proyecto.",
+      "description": ""
+    }
   }
 ]
 
