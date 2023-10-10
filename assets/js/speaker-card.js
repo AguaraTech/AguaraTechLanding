@@ -6,7 +6,7 @@ var speakers = [
     "talk": {
       "title": "Zona de promesas (async/await)",
       "image": "talk-1.png",
-      "summary": "Una mirada a la programación asincrónica.<br>Al no detenerse en espera de resultados, nos permite ejecutar tareas independientes en forma simultanea, optimizando el tiempo y mejorando la capacidad de respuesta.<br>Veremos código con Callbacks, Promesas y funciones async/await en Javascript.",
+      "summary": "Una mirada a la programación asincrónica.<br>Al no detenerse en espera de resultados, ejecuta tareas independientes en forma simultánea, optimizando el tiempo y la capacidad de respuesta.<br>Veremos código con Callbacks, Promesas y funciones async/await en Javascript.",
       "description": ""
     }
   },
@@ -106,6 +106,28 @@ var speakers = [
       "title": "OnlyOffice - Su Nueva Suíte de Oficina",
       "image": "talk-1.png",
       "summary": "Conocerás la suite ofimática OnlyOffice, que es gratuita y de código abierto, que funciona en la nube, en el escritorio, en el móvil y en el servidor. Muy conocido en Europa, sin embargo, está dando sus primeros pasos en América Latina. También se demostrarán las formas de contribuir al proyecto.",
+      "description": ""
+    }
+  },
+  {
+    "name": "Carlos Brys",
+    "photo": "no-photo.jpg",
+    "bio": "Magister en Informática y Computación. Candidato a Doctor en Ciencias de la Computación por la Universidad de Málaga, España. Director de Modernización de la Gestión y Gobierno Electrónico del Gobierno de la Provincia de Misiones.",
+    "talk": {
+      "title": "GobLin/GNU Linux. El Linux para los gobiernos",
+      "image": "talk-1.png",
+      "summary": "El objetivo de este proyecto es brindar una solución “todo en uno”, que contenga todas las aplicaciones que una oficina de gobierno pueda necesitar, sin programas innecesarios. Esto facilita a los administradores y los usuarios de TI la instalación y el mantenimiento de la infraestructura informática.",
+      "description": ""
+    }
+  },
+  {
+    "name": "Gonzalo Mendoza",
+    "photo": "gonzalo.png",
+    "bio": "Entusiasta, Desarrollador y Tech Leader",
+    "talk": {
+      "title": "Practicas Agiles en el proceso de Desarrollo de Software ",
+      "image": "talk-1.png",
+      "summary": "Conversaremos brevemente sobre un conjunto de prácticas enfocadas a potenciar equipos de desarrollo de software con una mirada holistica. Veremos algunos ejemplos concretos sobre las practicas que utilizan algunas de las empresas del sector en sus distintas propuestas de valor. EL Pentagono de desarrollo ágil nos provee de un marco de referencia como guía en la busqueda de la excelencia, aportando una visión estratégica simple con aplicación práctica en los equipos de desarrollo",
       "description": ""
     }
   }
