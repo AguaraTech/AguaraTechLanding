@@ -137,7 +137,7 @@ data = '';
 var speaker_card = document.getElementById("speaker-card");
 speakers.sort(() => Math.random() - 0.5);
 speakers.forEach((speaker) => {
-  data += '<div class="col-6 col-lg-4 mb-4">\n';
+  data += '<div class="col-12 col-sm-6 col-lg-4 mb-4">\n';
   data += '\t<div class="card rounded-2">\n';
   data += '\t\t<div class="card-header text-primary fw-bold">\n';
   data += '\t\t\t<h5 class="card-title mb-2">'+ speaker.name +'</h5>\n';
